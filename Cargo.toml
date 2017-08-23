@@ -1,0 +1,16 @@
+[package]
+name = "grove"
+version = "0.1.0"
+authors = ["Michael Gattozzi <mgattozzi@gmail.com>"]
+description = "A library for easy to use tree data structures in Rust!"
+documentation = "https://docs.rs/grove"
+homepage = "https://github.com/mgattozzi/grove"
+repository = "https://github.com/mgattozzi/grove"
+readme = "README.md"
+keywords = ["tree", "data", "structure", "trees", "graph"]
+categories = []
+license = "MIT/Apache-2.0"
+
+[badges]
+travis-ci = { repository = "mgattozzi/grove", branch = "master" }
+appveyor = { repository = "mgattozzi/grove", branch = "master", service = "github" }
